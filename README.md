@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Guddu Kumar
 
-<!--
-**guddu-devops/guddu-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring DevOps Engineer  
+🧠 Learning Linux, Shell Scripting, Git, Docker, CI/CD, PostgreSQL  
+🛠 Daily hands-on practice & real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- Linux (Ubuntu)
+- Shell Scripting (Bash)
+- Git & GitHub
+- Docker (Learning)
+- AWS (Basics)
+- PostgreSQL (Basics)
+
+---
+
+### 📌 Daily DevOps Practice
+I upload daily:
+- Linux commands with explanation
+- Shell scripts (real use-cases)
+- Docker hands-on labs
+- CI/CD pipeline examples
+- PostgreSQL practice (queries, backup & restore)
+
+---
+
+### 📈 Goal
+To become a job-ready DevOps Engineer by building and sharing real projects on GitHub.
+
